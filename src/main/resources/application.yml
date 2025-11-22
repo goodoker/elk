@@ -1,0 +1,12 @@
+logging:
+  file:
+    name: logs/app.log
+  level:
+    root: INFO
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-boot-elk-demo
