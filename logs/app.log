@@ -75,3 +75,18 @@
 2025-11-22 16:26:38 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
 2025-11-22 16:26:43 [http-nio-8080-exec-2] ERROR ru.netology.elk.Application - This is a test error message
 2025-11-22 16:32:34 [http-nio-8080-exec-5] ERROR ru.netology.elk.Application - This is a test error message
+2025-11-22 17:03:04 [main] INFO  ru.netology.elk.Application - Starting Application using Java 21.0.9 with PID 7200 (D:\Download\elk\elk\target\classes started by Евгений in D:\Download\elk\elk)
+2025-11-22 17:03:04 [main] INFO  ru.netology.elk.Application - No active profile set, falling back to 1 default profile: "default"
+2025-11-22 17:03:05 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-22 17:03:05 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-11-22 17:03:05 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-22 17:03:05 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-11-22 17:03:05 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-22 17:03:05 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1423 ms
+2025-11-22 17:03:06 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-11-22 17:03:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2025-11-22 17:03:06 [main] INFO  ru.netology.elk.Application - Started Application in 3.023 seconds (process running for 3.473)
+2025-11-22 17:03:22 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-22 17:03:22 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-22 17:03:22 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-11-22 17:03:22 [http-nio-8080-exec-2] ERROR ru.netology.elk.Application - This is a test error message
